@@ -67,15 +67,6 @@ const services = [
 ];
 
 const technologies = [
-  {
-    name: 'Android',
-    icon: android,
-  },
-
-  {
-    name: 'python',
-    icon: python,
-  },
 
   {
     name: 'JavaScript',
